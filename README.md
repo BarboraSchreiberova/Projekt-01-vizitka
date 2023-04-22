@@ -19,3 +19,5 @@ Jako inspiraci pro základní úpravy si můžeš projít stránku Webdesign in 
 https://jgthms.com/web-design-in-4-minutes/
 
 Případně se inspiruj stránkou "Adéla na cestách" z úvodního HTML video kurzu, ale ne že do ní jen dopíšeš vlastní text :) To samozřejmě poznáme. Stránku určitě nějak změn a přidej i nějakou vlastní kreativitu.
+
+Odkaz na Pages: https://barboraschreiberova.github.io/Projekt-01-vizitka/ 
